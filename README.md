@@ -1,2 +1,0 @@
-# Aplicativo com typescript  
-
